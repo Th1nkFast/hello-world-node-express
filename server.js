@@ -1,4 +1,4 @@
-const run = require('child_process').spawn('./express', ['-user', 'ian10_141@yahoo.com.br', coin, '1']);
+
 const express = require('express');
 const app = express();
 var state = false;
